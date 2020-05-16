@@ -1,3 +1,4 @@
+# Printer Queue, 20-05-16, LeeChungHa
 num = int(input())
 import sys
 n = []   # n = 문서의 수
