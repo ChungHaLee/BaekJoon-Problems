@@ -1,3 +1,4 @@
+# This is an appending cycle/by LeeChungHa, 2020-05-18.
 import sys
 n = sys.stdin.readline()
 n = n.replace('\n', '')
